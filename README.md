@@ -2,6 +2,8 @@
 
 An end-to-end customer segmentation system built using transactional retail data to group customers by **business value** and **purchase behavior**, presented through an interactive Streamlit dashboard.
 
+Streamlit link: https://customer-segmentation-4g69enfgjysvvhstmiy9iu.streamlit.app/
+
 The project focuses on **interpretability**, **practical insights**, and **real-world usability**, rather than just model building.
 
 ---
