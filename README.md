@@ -81,3 +81,12 @@ pip install -r requirements.txt
 The project uses the **Online Retail Dataset**, which contains historical transactional data from a UK-based online retail company.
 
 Link: https://www.kaggle.com/code/yasserh/online-customer-segmentation-clustering-approach/input
+
+## 📊 Purchase Behavior Segmentation Visualization
+<p align="center">
+  <img src="customer_segmentation/analysis.png" width="600"/>
+    <br/>
+  <em>Visualization of customer purchase behavior clusters (Regular, Bulk, Anomaly) using PCA projection.</em>
+</p>
+
+
